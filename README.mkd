@@ -1,0 +1,9 @@
+Arduino experimentation
+=======================
+
+These code are written for personal experiments.
+
+These may be copy of (, or modify from) Arduino example sketches.
+
+These code are public domain.
+
